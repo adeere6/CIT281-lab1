@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+## Lab goals and outcomes:
 
-You can use the [editor on GitHub](https://github.com/adeere6/CIT281-lab1/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+- Part 1: Install and setup your personal computer with the software tools required for this course
+- Part 2: Practice using software tools
+- Part 3: Practice terminal or shell commands
+- Part 4: Practice keyboard shortcuts
+- Part 5: Create your first Node.js server-side JavaScript file
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+This lab required the following software tools:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- Chrome
+- Visual Studio Code
+- Visual Studio Code extensions
+- Prettier - Code formatter
+- ESLint
+- GitHub Pull Requests and Issues
+- Node.js and included npm
+- git
+- Postman
 
-```markdown
-Syntax highlighted code block
+![image](https://user-images.githubusercontent.com/83984264/120862438-cc86df00-c53d-11eb-8d8e-3b2b29fe4c58.png)
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+## What I learned:
+From this lab I learned more about different commands for my terminal and learned many new shortcuts to make Visual Studio code more efficient. I also began learning about debugging in this lab as well. 
 
-1. Numbered
-2. List
+![image](https://user-images.githubusercontent.com/83984264/120862649-2687a480-c53e-11eb-8eb9-50a40419c01f.png)
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/adeere6/CIT281-lab1/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
