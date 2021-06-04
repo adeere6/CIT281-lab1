@@ -1,0 +1,18 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 5C97-82B3
+
+ Directory of C:\Users\allie\Downloads\cit281
+
+04/07/2021  12:19 PM    <DIR>          .
+04/07/2021  12:19 PM    <DIR>          ..
+04/07/2021  12:19 PM                 0 lab-01-folders.txt
+04/07/2021  11:53 AM    <DIR>          p1
+04/07/2021  11:50 AM    <DIR>          p2
+04/07/2021  11:50 AM    <DIR>          p3
+04/07/2021  11:50 AM    <DIR>          p4
+04/07/2021  11:50 AM    <DIR>          p5
+04/07/2021  11:50 AM    <DIR>          p6
+04/07/2021  11:50 AM    <DIR>          p7
+04/07/2021  11:50 AM    <DIR>          p8
+               1 File(s)              0 bytes
+              10 Dir(s)  363,799,875,584 bytes free
